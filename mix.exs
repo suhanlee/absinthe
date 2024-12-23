@@ -1,7 +1,7 @@
 defmodule Absinthe.Mixfile do
   use Mix.Project
 
-  @source_url "https://github.com/absinthe-graphql/absinthe"
+  @source_url "https://github.com/suhanlee/absinthe"
   @version "1.7.8"
 
   def project do
